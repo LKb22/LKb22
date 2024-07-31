@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Luke, a fresh career changer and bootcamer, Junior Fullstack Developer and Senior Talent Success Advisor, and Master's Graduate and researcher. I recently graduated from Le Wagon’s intensive 9-week Web Development Bootcamp and built a website on Ruby connecting junior and senior developers looking for live mock interviews. I'm eager to bring together new and seasoned skills for my next challenge in tech.
 <!--
 **LKb22/LKb22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
