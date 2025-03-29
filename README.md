@@ -9,8 +9,5 @@ Languages & Frameworks
 🛠️ Tools & Platforms
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/> </p>
 
-📦 Libraries & Other Tech
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/RubyGems-logo.svg" alt="Ruby Gems" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="AJAX" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Hotwire_logo.svg" alt="Hotwire" width="50" height="50"/> </p>
-
 📌 Other Tools
 HubSpot, Notion, Slack, G Suite, PowerBI, Jira, Asana, ClickUp, Trello, Miro, Gantt, Dedoose, ArcGIS
