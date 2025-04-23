@@ -1,4 +1,4 @@
-Fresh career changer and bootcamper, Fullstack Developer, Product & Project Manager, Master's Graduate, and Researcher. I graduated from Le Wagon’s intensive 9-week Web Dev Bootcamp, where I built a Ruby on Rails web app using Zoom meeting API to connect junior and senior devs looking for live mock interviews. I’m scientific, adaptable, and curious, continuously learning and growing along this journey as a developer, tech. product/project manager, (UX) researcher, and agilist. I’m eager to bring together new and seasoned skills for my next challenge in tech.
+I graduated from Le Wagon’s intensive 9-week Web Dev Bootcamp, where I built a Ruby on Rails web app using Zoom meeting API to connect junior and senior devs looking for live mock interviews. I’m scientific, adaptable, and curious, eager to bring together new and seasoned skills for my next challenge in tech.
 
 ---
 
